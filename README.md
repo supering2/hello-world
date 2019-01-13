@@ -38,3 +38,8 @@ git commit -m 'msg'
 ```
 git push
 ```
+
+### 拉取代码
+```
+git pull
+```
