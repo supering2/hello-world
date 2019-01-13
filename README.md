@@ -39,7 +39,7 @@ git commit -m 'msg'
 git push
 ```
 
-### 拉取代码
+### 拉取代码(同步远端代码)
 ```
 git pull
 ```
